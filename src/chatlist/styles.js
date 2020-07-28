@@ -42,9 +42,9 @@ const styles = theme => ({
       marginRight: theme.spacing(2),
     },
     fabIcon: {
-      position: 'absolute',
-      bottom: '46px',
-      right: '44px',
+      position: 'fixed',
+      bottom: '85px',
+      right: '50px',
       backgroundColor: '#448A03',
       zIndex: 1
     },

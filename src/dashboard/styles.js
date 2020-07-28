@@ -1,6 +1,6 @@
 const styles = theme => ({
     signOutBtn: {
-      position: 'absolute',
+      position: 'fixed',
       bottom: '0px',
       left: '0px',
       width: '100%',
